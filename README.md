@@ -1,7 +1,13 @@
 titanic
 ==============================
 
-A short description of the project.
+I created this project while taking a course on Data Science with Python.
+
+By the end of this course I have succesfully created a predictive model predicting the survival on Titanic.
+
+More details on the Kaggle challenge : https://www.kaggle.com/c/titanic/
+
+My current leaderboard score is 4217 with with a score of 0.78468
 
 Project Organization
 ------------
